@@ -1,0 +1,17 @@
+.venv/
+venv/
+.tmp/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+
+/data/
+/results/
+/dataset_manifest.json
+
+*.zip
+*.part
+*.npy
+*.npz
+.env
+.env.*
